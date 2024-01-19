@@ -1,5 +1,5 @@
 # ADRC-Motor-Control
-A collection of MATLAB (.m) files for analyzing the frequency response of an SEDC motor using the Active Disturbance Rejection Control (ADRC) technique. Code for the paper "[Robust Control of a DC Motor](https://www.sciencedirect.com/science/article/pii/S2405844020326207)." If you find the scripts presented here remotely useful in your work, please cite us using the following `.bib` entry:
+A collection of MATLAB (.m) files for analyzing the frequency response of a separately-excited motor using the Active Disturbance Rejection Control (ADRC) technique. Code for the paper "[Robust Control of a DC Motor](https://www.sciencedirect.com/science/article/pii/S2405844020326207)." If you find the scripts presented here remotely useful in your work, please cite us using the following `.bib` entry:
 
 ```
 @article{okoro_robust_2020,
